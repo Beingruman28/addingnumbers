@@ -1,12 +1,14 @@
 package addingnumbers;
 
-	import java.util.Scanner;  
+	import java.util.Scanner;
+	
 		public class Addition 
 		{  
 		public static void main(String args[])  
 		{  
 		int x, y, sum;  
-		Scanner sc = new Scanner(System.in);  
+		Scanner sc = new Scanner(System.in);		
+		System.out.println("hello");
 		System.out.print("Enter the first number: ");  
 		x = sc.nextInt();  
 		System.out.print("Enter the second number: ");  

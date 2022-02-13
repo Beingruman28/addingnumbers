@@ -52,7 +52,6 @@ public class Calci{
         System.out.println("Invalid operator!");
         break;
     }
-
     input.close();
   }
 }
